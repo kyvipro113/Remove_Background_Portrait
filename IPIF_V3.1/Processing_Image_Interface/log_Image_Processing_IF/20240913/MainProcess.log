@@ -1,0 +1,8 @@
+2024-09-13 11:05:02,347 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V2/data_in
+2024-09-13 11:05:02,347 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V2/data_out_u2net
+2024-09-13 11:05:02,348 - MainProcess - DEBUG: >>>> Total Data: 419
+2024-09-13 11:21:38,093 - MainProcess - DEBUG: >>>> Process data successful
+2024-09-13 13:58:31,248 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-13 13:58:31,248 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out_portrait
+2024-09-13 13:58:31,249 - MainProcess - DEBUG: >>>> Total Data: 419
+2024-09-13 14:11:34,065 - MainProcess - DEBUG: >>>> Process data successful

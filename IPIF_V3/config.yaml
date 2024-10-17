@@ -1,0 +1,43 @@
+IPIF_SERVICE:
+    IPIF_HOST: 10.30.100.241
+    IPIF_PORT: 6266
+    SECURE: False
+IMAGE_PROCESSING_CONFIG:
+    NUM_PROCESSES: 2
+    IMG_SIZE_INP: Large
+    EQUAL_HIST: False
+    GRAY_SCALE: True
+    SEGMENTATION_MODEL:
+        MODEL_NAME_SEG: deeplabv3
+        MODEL_PATH_SEG: deeplabv3_model/deeplabv3_ov.xml
+        TENSOR_FORMAT: NHWC
+        HEIGHT: 512
+        WIDTH: 512
+
+        # MODEL_NAME_SEG: u2net
+        # MODEL_PATH_SEG: u2net_model/u2net_ov.xml
+        # TENSOR_FORMAT: NCHW
+        # HEIGHT: 224
+        # WIDTH: Flex
+
+        # MODEL_NAME_SEG: portrait
+        # MODEL_PATH_SEG: portrait_model/portrait_ov.xml
+        # TENSOR_FORMAT: NCHW
+        # HEIGHT: 224
+        # WIDTH: 224
+        # USE_PADDING: True
+        # PADDING_VALUE: 128
+        # SCALE: 1
+        # MEAN: [103.94, 116.78, 123.68]
+        # STDEV: [0.017, 0.017, 0.017]
+    ALPHA_MATTING_MODEL:
+        MODEL_NAME_AL: mgmatting
+        MODEL_PATH_AL: mgmatting_model/RWP100K/mgmatting_rwp100.pth
+        USE_GPU: False
+        OMP_NUM_THREADS: 2
+    CONTRAST:
+        USE_ADAPT: True
+        MIN_THRESH: 90
+        MAX_THRESH: 180
+        ALPHA: 1
+        BETA: 30

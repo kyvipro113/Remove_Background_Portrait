@@ -1,0 +1,34 @@
+2024-09-18 14:47:15,093 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-18 14:47:15,094 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out_portrait
+2024-09-18 14:47:15,094 - MainProcess - DEBUG: >>>> Total Data: 419
+2024-09-18 14:51:32,101 - MainProcess - DEBUG: >>>> Process data successful
+2024-09-18 14:53:55,213 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-18 14:53:55,213 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out_portrait
+2024-09-18 14:53:55,214 - MainProcess - DEBUG: >>>> Total Data: 0
+2024-09-18 14:53:55,214 - MainProcess - DEBUG: >>>> Total image less than num process. Use main process for processing
+2024-09-18 14:53:56,405 - MainProcess - DEBUG: >>>> Process data successful
+2024-09-18 14:56:27,529 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-18 14:56:27,529 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out_portrait
+2024-09-18 14:56:27,530 - MainProcess - DEBUG: >>>> Total Data: 0
+2024-09-18 14:56:27,530 - MainProcess - DEBUG: >>>> Total image less than num process. Use main process for processing
+2024-09-18 14:56:28,887 - MainProcess - DEBUG: >>>> Process data successful
+2024-09-18 14:57:30,832 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-18 14:57:30,833 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out_portrait
+2024-09-18 14:57:30,833 - MainProcess - DEBUG: >>>> Total Data: 419
+2024-09-18 14:58:16,126 - MainProcess - DEBUG: >>>> Process data successful
+2024-09-18 14:59:17,730 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-18 14:59:17,730 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out_portrait
+2024-09-18 14:59:17,730 - MainProcess - DEBUG: >>>> Total Data: 419
+2024-09-18 14:59:50,274 - MainProcess - DEBUG: >>>> Process data successful
+2024-09-18 17:00:06,493 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-18 17:00:06,542 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out_portrait
+2024-09-18 17:00:06,543 - MainProcess - DEBUG: >>>> Total Data: 419
+2024-09-18 17:05:50,456 - MainProcess - DEBUG: >>>> Process data successful
+2024-09-18 17:10:43,661 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-18 17:10:43,661 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out
+2024-09-18 17:10:43,662 - MainProcess - DEBUG: >>>> Total Data: 419
+2024-09-18 17:18:07,302 - MainProcess - DEBUG: >>>> Process data successful
+2024-09-18 17:22:07,076 - MainProcess - DEBUG: >>>> Data In: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_in
+2024-09-18 17:22:07,077 - MainProcess - DEBUG: >>>> Data Out: F:/Lab10_4Process_Image_Ethiopia/MKIPIF_V3/data_out_portrait
+2024-09-18 17:22:07,078 - MainProcess - DEBUG: >>>> Total Data: 419
+2024-09-18 17:27:43,183 - MainProcess - DEBUG: >>>> Process data successful
